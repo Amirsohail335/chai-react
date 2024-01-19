@@ -25,7 +25,7 @@ const App = () => {
 
   return (
     <div>
-      {imageCardsData.map((card, index) => (
+      {/* {imageCardsData.map((card, index) => (
         <ImageCardComponent
           key={index}
           imageUrl={card.imageUrl}
@@ -33,7 +33,7 @@ const App = () => {
           description={card.description}
           onEditClick={() => handleEditClick(index)}
         />
-      ))}
+      ))} */}
     </div>
   );
 };
