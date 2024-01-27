@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <App />
     {/* <ImageHeadingTitleComponent />/ */}
-    {/* <TableComponent/> */}
-    <InputModal/>
+    <TableComponent/>
+    {/* <InputModal/> */}
   </React.StrictMode>
 );
