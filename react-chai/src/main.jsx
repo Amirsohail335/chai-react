@@ -11,7 +11,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <App />
     {/* <ImageHeadingTitleComponent />/ */}
     {/* <TableComponent/> */}
-    {/* <InputModal/> */}
-    <InputBoxExample/>
+    <InputModal/>
+    {/* <InputBoxExample/> */}
   </React.StrictMode>
 );
